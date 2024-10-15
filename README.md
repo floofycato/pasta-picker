@@ -7,7 +7,7 @@ Customer view: https://pastapicker.netlify.app/
 Admin view: https://pastapicker-admin.netlify.app/
 
 ## Name
-Pasta Picker website and an admin dashboard.
+Pasta Picker website and an admin dashboard. Built with MERN stack.
 
 ## Description
 Customers can customize their pasta and make a purchase. Then, their orders will appear in the admin dashboards. The admin can manage the orders, menu items, and dashboard users.
