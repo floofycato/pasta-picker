@@ -1,6 +1,9 @@
 # Pasta Picker
 
+## Live Demo
 
+Customer view: https://pastapicker.netlify.app/
+Admin view: https://pastapicker-admin.netlify.app/
 
 ## Getting started
 
