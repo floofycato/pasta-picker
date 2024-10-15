@@ -25,7 +25,7 @@ Dashboard logins:
 - rider1
 
 ## Support
-pastapicker@gmail.
+pastapicker@gmail.com
 
 ## Authors and acknowledgment
 Papi team - Cyrus, Kat, Tammy, Tresh
